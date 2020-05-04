@@ -1,14 +1,14 @@
 # Full Stack Project - Data Collection 1
-#Purpose
+# Purpose
 Students will begin modeling data from their chosen source. Existing data will be studied and modeled into a more usable format appropriate for the project.
 
-#Instructions
+# Instructions
 At this point, you should have created a main.py file in your project and worked with it to a
 degree using Git and your local IDE.
 In this part of the project there will be a single submission of the link to your project on Github,
 however multiple tasks will be graded by reviewing the repository.
 
-#Part1: The Data Model
+# Part1: The Data Model
 Data created by third-party entities often has pieces of information that are not necessary and
 other pieces that are. Based on the scope of your chosen project, you must decide what is
 relevant and what should be discarded.
