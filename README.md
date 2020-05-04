@@ -1,4 +1,4 @@
-# Mobile Web Application: Guat-ED
+# Mobile Web Application: Weather Map
 # The Problem
 The causes of Guatemala’s larger gaps in education quality are likely related to larger differences across indigenous and nonindigenous students in variables that affect test scores, such as family income or school resources.
 # The Solution
